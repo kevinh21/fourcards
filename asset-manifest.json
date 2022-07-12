@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fourcards/static/css/main.38bf288c.css",
+    "main.js": "/fourcards/static/js/main.38fd28ef.js",
+    "static/js/787.acca33eb.chunk.js": "/fourcards/static/js/787.acca33eb.chunk.js",
+    "static/media/logo.svg": "/fourcards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fourcards/index.html",
+    "main.38bf288c.css.map": "/fourcards/static/css/main.38bf288c.css.map",
+    "main.38fd28ef.js.map": "/fourcards/static/js/main.38fd28ef.js.map",
+    "787.acca33eb.chunk.js.map": "/fourcards/static/js/787.acca33eb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.38bf288c.css",
+    "static/js/main.38fd28ef.js"
+  ]
+}
